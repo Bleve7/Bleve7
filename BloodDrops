@@ -1,0 +1,8 @@
+{
+    "address": string, //substrate address in ss58 format
+    "name": string, // Your title / display name which will appear in the list
+    "image": string, // link to your relevant image (such as your profile picture),
+    "shortDescription": string, // a brief description, no more than 256 characters long,
+    "longDescription": string, // a long description that can be more than 256 characters in length, supports markdown syntax,
+    "isOrganization": bool
+}
